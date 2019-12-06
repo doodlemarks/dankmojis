@@ -1,0 +1,23 @@
+{
+  "name": "dankmojis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dankmojis"
+  },
+  "author": "Mark Peck",
+  "license": "ISC",
+  "dependencies": {
+    "directory": "^0.1.0",
+    "express": "^4.17.1",
+    "js-yaml": "^3.13.1",
+    "node-sass": "^4.13.0",
+    "serve-index": "^1.9.1"
+  }
+}
