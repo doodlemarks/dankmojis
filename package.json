@@ -17,7 +17,7 @@
     "directory": "^0.1.0",
     "express": "^4.17.1",
     "js-yaml": "^3.13.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "serve-index": "^1.9.1"
   }
 }
